@@ -1,0 +1,4 @@
+Copyright (C) 2013 Isao Hara,AIST  All rights reserved.
+
+This software is published with MIT License.
+
